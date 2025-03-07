@@ -23,6 +23,7 @@ Your new balance is $603.
 
 ## MultiplicationTable.java
 * Write a program that asks the user for a number, and then prints the multiplication table for that number from 1 to 10.
+* Hint: You can use a while loop to print out the multiplication table!
 
 ### Example Output
 ```
