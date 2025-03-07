@@ -1,12 +1,12 @@
 # Scanner Practice
 
 ## TempConverter.java
-* Ask the user for a temperature in Farenheit. Then, ask them to enter a character (C or F) to convert the temperature to Celsius or Farenheit, respectively. Print the converted temperature.
+* Ask the user for a temperature in Farenheit. Then, ask them to enter a character (C or K) to convert the temperature to Celsius or Kelvin, respectively. Print the converted temperature.
 
 ### Example Output
 ```
 Enter a temperature in Farenheit: 32
-Enter 'C' to convert to Celsius, or 'F' to convert to Farenheit: C
+Enter 'C' to convert to Celsius, or 'K' to convert to Kelvin: C
 0.0
 ```
 
